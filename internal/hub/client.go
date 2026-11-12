@@ -14,9 +14,9 @@ import (
 	"time"
 
 	"github.com/gorilla/websocket"
-	"github.com/mrhy7176/cloudgpu-agent/internal/config"
-	"github.com/mrhy7176/cloudgpu-agent/internal/gpu"
-	agentrt "github.com/mrhy7176/cloudgpu-agent/internal/runtime"
+	"github.com/cloudgpu-app/cloudgpu-agent/internal/config"
+	"github.com/cloudgpu-app/cloudgpu-agent/internal/gpu"
+	agentrt "github.com/cloudgpu-app/cloudgpu-agent/internal/runtime"
 )
 
 // Handler is what the main loop passes in to receive commands from the hub.

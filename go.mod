@@ -1,4 +1,4 @@
-module github.com/mrhy7176/cloudgpu-agent
+module github.com/cloudgpu-app/cloudgpu-agent
 
 go 1.22
 

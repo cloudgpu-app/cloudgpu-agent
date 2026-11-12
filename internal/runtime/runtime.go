@@ -18,7 +18,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/mrhy7176/cloudgpu-agent/internal/gpu"
+	"github.com/cloudgpu-app/cloudgpu-agent/internal/gpu"
 )
 
 // Handler is the minimal "reserve a GPU, run a container, release it"

@@ -10,9 +10,9 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/mrhy7176/cloudgpu-agent/internal/config"
-	"github.com/mrhy7176/cloudgpu-agent/internal/hub"
-	"github.com/mrhy7176/cloudgpu-agent/internal/runtime"
+	"github.com/cloudgpu-app/cloudgpu-agent/internal/config"
+	"github.com/cloudgpu-app/cloudgpu-agent/internal/hub"
+	"github.com/cloudgpu-app/cloudgpu-agent/internal/runtime"
 )
 
 // agentHandler is the glue between the hub client and the runtime handler.
